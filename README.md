@@ -6,12 +6,12 @@
 <div>
 <section align="center">
 
-  <a href="https://github.com/kanekireal">
-    <img alt="Wesley Levasseur Wakatime" height="150em" src="https://github-readme-stats.vercel.app/api?username=kanekireal&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
+  <a href="https://github.com/git-init-wesley">
+    <img alt="Wesley Levasseur Wakatime" height="150em" src="https://github-readme-stats.vercel.app/api?username=git-init-wesley&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
   </a>
   
   <a href="https://wakatime.com/@kanekireal">
-    <img alt="Wesley Levasseur TopLangs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanekireal&langs_count=10&layout=compac&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
+    <img alt="Wesley Levasseur TopLangs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-init-wesley&langs_count=10&layout=compac&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
   </a>
   
   <a href="https://wakatime.com/@kanekireal">
@@ -22,13 +22,13 @@
 
 <section align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanekireal&theme=github-dark-blue&hide_border=true&date_format=n%2Fj%5B%2FY%5D&border=DDDDDD)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=git-init-wesley&theme=github-dark-blue&hide_border=true&date_format=n%2Fj%5B%2FY%5D&border=DDDDDD)](https://git.io/streak-stats)
 
 </section>
 
 <section align="center">
 
-[![GitHub Vercel](https://github-profile-trophy.vercel.app/?username=kanekireal&theme=darkhub)](https://github-profile-trophy.vercel.app)
+[![GitHub Vercel](https://github-profile-trophy.vercel.app/?username=git-init-wesley&theme=darkhub)](https://github-profile-trophy.vercel.app)
 
 </section>
 </div>
